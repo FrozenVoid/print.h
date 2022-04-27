@@ -1,5 +1,6 @@
 #pragma once
 /* print.h standalone print macros
+https://github.com/FrozenVoid/print.h 
 print(args) print all arguments(space separated)
 hexprint(args) prints all arguments in hex(except strings)
 dbgprint(args) prints all arguments to stderr
